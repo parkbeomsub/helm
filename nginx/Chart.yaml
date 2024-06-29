@@ -33,4 +33,5 @@ maintainers:
 name: nginx
 sources:
 - https://github.com/bitnami/charts/tree/main/bitnami/nginx
+# docker image version 
 version: 18.1.2
