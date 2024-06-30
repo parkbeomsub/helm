@@ -1,1 +1,2 @@
-/argocd/실습1/ssh-key/
+argocd/실습1/ssh-key/id_rsa
+argocd/실습1/ssh-key/id_rsa.pub
